@@ -82,7 +82,10 @@ MongoDB Atlas Free Tier
 Anthropic API Docs
 
 ## 📸 Screenshots
-![Screenshot Description](https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205138.png)
+<div align="center">
+  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205138.png" alt="Topic Input Page" style="width:300px; max-height:200px; margin-right: 25px; object-fit: contain;" />
+  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205357.png" alt="Topic Input Page" style="width:300px; max-height:200px; margin-right: 25px; object-fit: contain;" />
+</div>
 
 ## 📝 License
 This project is built for educational and portfolio purposes.
