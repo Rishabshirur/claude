@@ -48,8 +48,8 @@ Optional/Helpful Tools:
 ### 1️⃣ Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/eli5-ai-webapp.git
-cd eli5-ai-webapp
+git clone https://github.com/Rishabshirur/claude.git
+cd claude-master
 ```
 
 ### 2️⃣ Install Dependencies
