@@ -1,12 +1,18 @@
 # 📚 Explain Like I'm 5 (ELI5) AI Web App
 
+## 📸 Screenshots
+<div align="center">
+  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205138.png" alt="Topic Input Page" style="width:300px; height:200px; object-fit: cover;" />
+  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205357.png" alt="Topic Input Page" style="width:400px; height:200px; object-fit: cover;" />
+</div>
 
 ## 🚀 Badges
 
-![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?logo=nextdotjs&logoColor=white)  
-![MongoDB Atlas](https://img.shields.io/badge/Database-MongoDB%20Atlas-4EA94B?logo=mongodb&logoColor=white)  
-![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?logo=vercel&logoColor=white)  
-![Uses Anthropic AI API](https://img.shields.io/badge/AI%20powered%20by-Anthropic%20Claude-blueviolet)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Anthropic AI](https://img.shields.io/badge/Powered%20by-Anthropic%20Claude-6f42c1?style=for-the-badge&logo=anthropic&logoColor=white)
+
 
 ---
 
@@ -81,11 +87,6 @@ MongoDB Atlas Free Tier
 
 Anthropic API Docs
 
-## 📸 Screenshots
-<div align="center">
-  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205138.png" alt="Topic Input Page" style="width:300px; max-height:200px; margin-right: 25px; object-fit: contain;" />
-  <img src="https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205357.png" alt="Topic Input Page" style="width:300px; max-height:200px; margin-right: 25px; object-fit: contain;" />
-</div>
 
 ## 📝 License
 This project is built for educational and portfolio purposes.
