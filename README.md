@@ -82,12 +82,10 @@ MongoDB Atlas Free Tier
 Anthropic API Docs
 
 ## 📸 Screenshots
-
+![Screenshot Description](https://github.com/Rishabshirur/claude/blob/87698f0ed8fa9879363fc1b458ae806d652342ac/Screenshot%202024-10-14%20205138.png)
 
 ## 📝 License
 This project is built for educational and portfolio purposes.
 
-```sql
-This contains **all your instructions, each step with proper code blocks and formatting**, so you do
-```
+
 
